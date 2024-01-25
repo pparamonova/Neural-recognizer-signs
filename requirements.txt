@@ -1,0 +1,7 @@
+matplotlib
+opencv-python
+Pillow
+PyQt6
+scikit-learn
+tensorflow
+imutils
